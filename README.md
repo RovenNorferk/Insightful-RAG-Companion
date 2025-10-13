@@ -1,6 +1,6 @@
 # RAG-Powered Multi-Agent Knowledge Assistant
 
-This project implements a Retrieval-Augmented Generation (RAG) system integrated with a simple agentic workflow. It dynamically chooses between tools like a calculator, dictionary, or a retrieval-based LLM QA pipeline to answer queries. The system is exposed via a minimal Streamlit web interface.
+This project implements a Retrieval-Augmented Generation (RAG) system integrated with a simple agentic workflow. It dynamically chooses between tools like a calculator, dictionary, or a retrieval-based LLM QA pipeline to answer queries. The system is exposed via a minimal Streamlit web interface 
 
 ---
 
