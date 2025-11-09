@@ -1,4 +1,4 @@
-# RAG-Powered Multi-Agent Knowledge Assistant
+# RAG-Powered Multi-Agent Q&A Assistant
 
 This project implements a Retrieval-Augmented Generation (RAG) system integrated with a simple agentic workflow. It dynamically chooses between tools like a calculator, dictionary, or a retrieval-based LLM QA pipeline to answer queries. The system is exposed via a minimal Streamlit web interface 
 
@@ -7,8 +7,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system integrated
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f07a8163-0fd9-438c-8e02-9326e16327f0" alt="Screenshot 1" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/0601e549-7904-43fc-8f0a-27088c077aef" alt="Screenshot 2" width="400"/></td>
+    <td><img src=".\Images\Image -1.png" alt="Image 1" width="400"/></td>
+    <td><img src=".\Images\Image -2.png" alt="Image 2" width="400"/></td>
   </tr>
 </table>
 
@@ -86,8 +86,8 @@ Each query logs:
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/rag-multi-agent-assistant.git
-cd rag-multi-agent-assistant
+git clone https://github.com/RovenNorferk/Insightful-RAG-Companion.git
+cd Insightful-RAG-Companion
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install --upgrade pip

@@ -2,8 +2,8 @@ import streamlit as st
 from rag_model import route_query, use_calculator, define_term, answer_with_qa_pipeline, number_with_theory, retriever
 
 
-st.set_page_config(page_title="RAG Multi-Agent Assistant")
-st.title("🤗 RAG-Powered Multi-Agent Q&A Assistant")
+st.set_page_config(page_title="Insightful-RAG-Companion")
+st.title("RAG-Powered Multi-Agent Q&A Assistant")
 
 query = st.text_input("Ask me anything...")
 
