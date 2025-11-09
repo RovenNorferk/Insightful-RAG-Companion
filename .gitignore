@@ -1,0 +1,16 @@
+# Virtual environment
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated vector store
+vectorstore.pkl
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
